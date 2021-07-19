@@ -13,3 +13,4 @@ Features:
 Members:
 1. Aishik Rakshit https://github.com/aishik-rakshit
 2. Anuraag Mahajan https://github.com/anuraagm19
+3. Eshan Trehan https://github.com/astroturk
